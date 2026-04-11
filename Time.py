@@ -27,7 +27,7 @@ class Time:
 
 
 # Main program
-t1 = Time(10, 25, 45)
+t1 = Time(15, 25, 45)
 t2 = Time(9, 38, 30)
 
 t3 = t1.addition(t2)
