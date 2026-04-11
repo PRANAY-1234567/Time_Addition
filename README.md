@@ -114,7 +114,7 @@ This program helps beginners understand:
 * Convert time into total seconds and vice versa
 * Add validation (e.g., seconds < 60, minutes < 60)
 
----
+----
 
 ## 📄 License
 
