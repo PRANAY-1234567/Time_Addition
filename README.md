@@ -119,3 +119,5 @@ This program helps beginners understand:
 ## 📄 License
 
 This project is open-source and free to use.
+
+<img width="768" height="788" alt="image" src="https://github.com/user-attachments/assets/4feadd4c-24ab-4126-a311-1540a9ba41c6" />
