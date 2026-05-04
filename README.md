@@ -64,8 +64,6 @@ class Time:
 
         return r
 
-
-# Main program
 t1 = Time(10, 25, 45)
 t2 = Time(9, 38, 30)
 
